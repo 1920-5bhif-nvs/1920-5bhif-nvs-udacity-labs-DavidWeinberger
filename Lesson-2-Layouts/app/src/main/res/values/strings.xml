@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="aleks_haecky">Aleks Haecky</string>
+    <string name="yellow_start">Yellow Star</string>
+    <string name="bio">Hello users, this is nothing! \nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!
+    \nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!
+    \nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!
+    \nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!
+    \nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!
+    \nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!
+    \nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!
+    \nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!
+    \nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!
+    \nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!</string>
+    <string name="hint">What is your name?</string>
+</resources>

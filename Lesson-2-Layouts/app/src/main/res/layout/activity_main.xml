@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/name_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/aleks_haecky"
+        style="@style/NameStyle" />
+
+    <EditText
+        android:id="@+id/nickname_edit"
+        style="@style/NameStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint"
+        android:inputType="textPersonName" />
+
+    <ImageView
+        android:id="@+id/star_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/yellow_start"
+        app:srcCompat="@android:drawable/btn_star_big_on" />
+
+    <ScrollView
+        android:id="@+id/big_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/big_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bio"
+            android:padding="20dp"
+            android:lineSpacingMultiplier="1.2"/>
+    </ScrollView>
+
+</LinearLayout>
