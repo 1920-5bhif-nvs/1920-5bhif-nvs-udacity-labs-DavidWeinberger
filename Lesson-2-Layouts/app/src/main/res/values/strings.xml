@@ -13,4 +13,5 @@
     \nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!
     \nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!\nHello users, this is nothing!</string>
     <string name="hint">What is your name?</string>
+    <string name="done">Done</string>
 </resources>
