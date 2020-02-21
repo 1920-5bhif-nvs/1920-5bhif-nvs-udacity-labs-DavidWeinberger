@@ -17,7 +17,6 @@
 
 package com.example.android.devbyteviewer.database
 
-import android.provider.MediaStore
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 import com.example.android.devbyteviewer.network.NetworkVideoContainer
